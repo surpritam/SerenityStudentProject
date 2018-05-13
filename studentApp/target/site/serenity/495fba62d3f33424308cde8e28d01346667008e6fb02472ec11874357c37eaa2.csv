@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Serenity crud test","Test to create student","SUCCESS","2018-05-12T17:16:18.218-04:00[America/New_York]","0.0","4.42"
+"Serenity crud test","Test to verify added student","SUCCESS","2018-05-12T17:16:23.075-04:00[America/New_York]","0.0","0.88"
+"Serenity crud test","Test to update student","SUCCESS","2018-05-12T17:16:23.956-04:00[America/New_York]","0.0","0.36"
+"Serenity crud test","Test to delete student","SUCCESS","2018-05-12T17:16:24.321-04:00[America/New_York]","0.0","0.35"
